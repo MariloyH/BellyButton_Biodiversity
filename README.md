@@ -12,5 +12,4 @@ application for visualizing datasets, using Plotly and JavaScript. Selecting the
   
   -Bacteria Cultures per Sample
   
-  
-
+  You can explore the dashboard in !https://mariloyh.github.io/BellyButton_Biodiversity/
